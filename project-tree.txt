@@ -364,6 +364,11 @@
 | |____src
 | | |____test
 | | |____main
+|____shared
+| |____ui-components
+| |____api-client
+| | |____package.json
+| | |____src
 |____docs
 | |____architecture
 | |____api-specs
@@ -371,3 +376,6 @@
 |____deployment
 | |____k8s
 |____project-tree.txt
+|____e2e
+| |____tests
+| |____playwright.config.ts
